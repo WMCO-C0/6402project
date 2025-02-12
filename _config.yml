@@ -1,8 +1,8 @@
 title: 6402 project # name of the site
 author: Wikimedia Colombia # name of site's author
 email: johana.botero[at]wikimediacolombia.org # email of site's author
-url: https://M0N44.github.io # root address of the site
-baseurl: "/project6402" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+url: https://wmco-c0.github.io/ # root address of the site
+baseurl: "6402project/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A digital memorial for victims of extrajudicial executions in the Colombian conflict. Explore stories, contribute data, and collaborate for justice and reconciliation..
 
