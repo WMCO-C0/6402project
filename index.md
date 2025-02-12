@@ -4,7 +4,7 @@ layout: default
 ---
 [Español](#español)
 
-# Project 6402  
+# 6402 Project
 **Honoring Stories of the Disappeared**
 
 ---
