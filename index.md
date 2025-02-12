@@ -32,14 +32,14 @@ The project is inspired by digital memorials like the [Joods Monument](https://w
 ## How You Can Help  
 We are looking for developers, designers, researchers, and storytellers to join us. Whether you're passionate about creating visual elements, structuring data, or telling meaningful stories, there’s a role for you.
 
-[Reach out to help us make this vision a reality!](mailto:contacto@wikimediacolombia.org)
+**Reach out to help us make this vision a reality!**
 
 ---
 
 ## Contact Us  
 Have questions or want to collaborate? Get in touch:
 
-- **Email:** [contacto@wikimediacolombia.org](mailto:contacto@wikimediacolombia.orgg)  
+- **Email:** [contacto[at]wikimediacolombia.org]  
 - **GitHub:** [6402 Project Repository](https://github.com/WMCO-C0/6402project)
 
 ---
@@ -77,14 +77,14 @@ El proyecto se inspira en memoriales digitales como el [Joods Monument](https://
 ## Cómo Puedes Ayudar  
 Estamos buscando desarrolladores, diseñadores, investigadores y narradores para unirse a nosotros. Ya sea que te apasione crear elementos visuales, estructurar datos o crear historias significativas, hay un rol para ti.
 
-[¡Escríbenos para ayudarnos a hacer realidad esta visión!](contacto@wikimediacolombia.org)
+**Escríbenos para ayudarnos a hacer realidad esta visión!**
 
 ---
 
 ## Contacto  
 ¿Tienes preguntas o quieres colaborar? Contáctanos:
 
-- **Correo Electrónico:** [contacto@wikimediacolombia.org](contacto@wikimediacolombia.org)  
+- **Correo Electrónico:** [contacto[at]wikimediacolombia.org]
 - **GitHub:** [Repositorio del Proyecto 6402](https://github.com/WMCO-C0/6402project)
 
 ---
